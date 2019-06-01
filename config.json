@@ -1,0 +1,11 @@
+{
+  "bot":{
+    "prefix": "^%",
+    "token": "NTcyNDI1MTgyMDc0MTA5OTYx.XMcHPA.rHUyR_X3ZZH6FgUwSRin9AQkVm8"
+  },
+
+  "webhook": {
+      "token": "giJWygOo-_J02zKgDKh5bAOrewoASSbi1UqgZGA4WKe3Qr23Ot3S7RBrEAodHWYwRs9G",
+      "id": "573122465308606465"
+  }
+}
